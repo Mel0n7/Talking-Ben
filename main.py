@@ -1,4 +1,3 @@
-from http.client import responses
 import discord, os, discord.ext, random
 from dotenv import load_dotenv
 
